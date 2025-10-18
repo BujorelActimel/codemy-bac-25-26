@@ -1,4 +1,16 @@
 ## Tema
 
-- 2636 Noduri Izolate
-- 430 Izolate (2 metode)
+exercitii:
+- 159
+- 162
+- 164
+- 168
+- 171
+- 181
+
+probleme:
+- 421
+- 431
+
+## Nelamuriri: 
+- 136
