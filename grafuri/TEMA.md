@@ -1,7 +1,7 @@
 ## Tema
 
+scoala:
+-dmaxk
+
 probleme:
-- 19
-- 539
-- 4204
-- 4638
+- 2749
