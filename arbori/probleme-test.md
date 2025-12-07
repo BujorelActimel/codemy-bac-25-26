@@ -1,0 +1,2 @@
+- 651  OK
+- 3693 EXPLICATIE, continuati cu implementarea
